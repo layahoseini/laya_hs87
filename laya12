@@ -1,0 +1,23 @@
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    border: 3px solid grey;
+    color: black;
+    background-color: azure;
+    text-decoration: none;
+    align-items:center ;
+    margin: 150px;
+    border-radius: 30%;
+}
+button{
+    border-radius: 20%;
+   background-color: darkgreen;
+   color: antiquewhite;
+   font-size: medium;
+}
+img{
+    border-radius: 20%;
+    outline: 1px solid black;
+}
