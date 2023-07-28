@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal detials</title>
+    <link rel="stylesheet" href="./assets/styles/index.css">
+</head>
+<body>
+    <h2>!Get started absolutely free!</h2>
+    <div id="parent">
+        <div class="firt">
+            Name
+            <br>
+            <input type="text">
+            <br>
+            Mail
+            <br>
+            <input type="email">
+            <br>
+            Password
+            <br>
+            <input type="password">
+            <br>
+            Number
+            <br>
+            <input type="text">
+            <br>
+            <button type="submit">Create My Account</button>
+            <br>
+            <hr><a href="./assets/views/login.html">LOGIN</a>
+        </div>
+        <hr>
+        <div class="last">
+            <img src="./assets/images/nody-پس-زمینه-آبی-روشن-ساده-1633033771.jpg" alt="image of site">
+        </div>
+    </div>
+</body>
+</html>
