@@ -1,0 +1,32 @@
+#parent{
+    display: flex;
+    padding: 15px;
+    align-items: center;
+    background-color: cornflowerblue;
+
+}
+.first{
+    display: flex;
+    margin: 20px;
+}
+input{
+    width: 300px;
+    height: 30px;
+    border: 2px dashed purple;
+    border-radius: 2opx;
+}
+button{
+    background-color: rgb(33, 16, 185);
+    color: darkgray;
+    border-radius: 40%;
+}
+.last{
+    display: flex;
+    height: 600px;
+    width: 500px;
+    margin-right: 300px;
+    padding-right: 15px;
+}
+img{
+    object-fit: cover;
+}
