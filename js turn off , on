@@ -1,0 +1,6 @@
+function ChangePic(){
+    document.getElementById("lamp on").src="./assets/images/on lamp.jpg"
+}
+function PicChange(){
+    document.getElementById("lamp on").src="./assets/images/off lamp.jpg"
+}
