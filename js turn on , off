@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>laya</title>
+</head>
+<body>
+    <button onclick="ChangePic()">Turn On Lamp</button>
+    <img id="lamp on" src="./assets/images/off lamp.jpg">
+    <button onclick="PicChange()">Turn Off Lamp</button>
+    <script src="./assets/js/main.js"></script>
+</body>
+</html>
